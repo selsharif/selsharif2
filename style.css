@@ -1,0 +1,39 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Gelasio', serif; /* this should be the rest of the output you got from Google fonts */
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: left;
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 0.5px;
+  }
+
+  html {
+    background-color: rgba(235, 197, 154, 0.5);
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #a892738a;
+    padding: 0 20px 20px 20px;
+    border: 1px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: rgb(105, 51, 0);
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
